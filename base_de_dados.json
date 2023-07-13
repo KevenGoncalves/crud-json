@@ -1,0 +1,30 @@
+{
+  "usuarios": [
+    {
+      "id": "48014c46-69a0-4c09-9e55-66fd0b792bbb",
+      "nome": "Keven",
+      "apelido": "Goncalves"
+    },
+    {
+      "id": "f2e35ab4-a285-44da-be02-1c5954f56c35",
+      "nome": "Luis",
+      "apelido": "Maquina"
+    },
+    {
+      "id": "fe93a52d-4d0c-44d6-9f41-1ed7d982b36d",
+      "nome": "Keven",
+      "apelido": "Goncalves"
+    },
+    {
+      "id": "e758f44a-7999-4932-8647-f54687edf2a1",
+      "nome": "Nevek",
+      "apelido": "Svalog"
+    }
+  ],
+  "medias": [
+    {
+      "nota1": 19,
+      "nota2": 20
+    }
+  ]
+}
