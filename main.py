@@ -1,4 +1,3 @@
-import json
 import os
 from functions import criar
 from functions import ver_todos
@@ -6,18 +5,6 @@ from functions import ver_um
 from functions import apagar
 from functions import atualizar
 
-dict_db = {}
-with open("./base_de_dados.json", "r") as db:
-    dict_db = json.load(db)
-
-with open("./base_de_dados.json", "w") as db:
-    dict_db["medias"] = [
-            {
-                "nota1": 19,
-                "nota2": 20
-            }
-        ]
-    json.dump(dict_db, db)
 
 while True:
     print("""
